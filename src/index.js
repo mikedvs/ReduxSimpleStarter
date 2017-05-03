@@ -23,6 +23,7 @@ class App extends Component {
 			term: 'surfboards'
 		}, (videos) => {
 			this.setState({ videos });
+			console.log(videos);
 			// equivalent to this.setState({videos:videos}); !Syntactic sugar
 		});
 	}
