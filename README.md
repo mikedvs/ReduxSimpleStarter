@@ -1,4 +1,6 @@
-# ReduxSimpleStarter
+# Second Application built off - ReduxSimpleStarter
+
+### Lectures from 34 - 50
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
